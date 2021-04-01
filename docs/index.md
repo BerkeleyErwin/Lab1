@@ -1,6 +1,6 @@
 # Berkeley's Very Cool Page
 I made this with [GitHub Pages](https://pages.github.com/).
-![Cool Picture](/images/cool.png)
+![Cool Picture](/docs/images/cool.png)
 **Yeah this picture** *is pretty nice* ~~abcdefghijklmnopqrstuvwxyz~~
 ***Impressive***
 Remember as many have said 

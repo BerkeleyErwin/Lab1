@@ -5,7 +5,7 @@ As a programmer I'm interested in more of the low level hardware stuff like
 ARM and machine code.
 ## Cool picture
 I made this with [GitHub Pages](https://pages.github.com/).
-![Cool Picture](/docs/cool.png)
+![Cool Picture](https://raw.githubusercontent.com/BerkeleyErwin/Lab1/add-read-me/docs/cool.png)
 **Yeah this picture** *is pretty nice* ~~abcdefghijklmnopqrstuvwxyz~~
 ***Impressive***
 
